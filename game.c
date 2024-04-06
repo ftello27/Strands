@@ -7,6 +7,7 @@ FILE * open_data_file(int argc, char** argv) {
 
 // REQUIRED
 FILE * open_dict_file(int argc, char** argv) {
+    
     return NULL;
 }
 
